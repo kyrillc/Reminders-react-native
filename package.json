@@ -1,0 +1,39 @@
+{
+  "name": "Reminders",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "geolib": "^2.0.24",
+    "moment": "^2.22.2",
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-native-background-geolocation": "^2.14.2",
+    "react-native-elements": "^0.19.1",
+    "react-native-gesture-handler": "^1.0.12",
+    "react-native-maps": "^0.22.1",
+    "react-native-modal-datetime-picker": "^6.0.0",
+    "react-native-push-notification": "^3.1.2",
+    "react-native-swipeout": "^2.3.6",
+    "react-native-vector-icons": "^6.1.0",
+    "react-navigation": "^3.0.9",
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "redux-undo": "^1.0.0-beta9-9-7",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

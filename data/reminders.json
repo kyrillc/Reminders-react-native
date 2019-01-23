@@ -1,0 +1,23 @@
+{
+  "reminders": [
+    {
+      "id": "2bdf24bd-6458-4039-873c-0be244706a5b",
+      "title": "Buy milk",
+      "dueDate": "2018-12-01T10:00:00.000Z",
+      "done": false
+    },
+    {
+      "id": "ac908b12-97cc-42f2-994c-3772ca3cbb18",
+      "title": "Do laundry",
+      "dueDate": "2018-11-15T10:00:00.000Z",
+      "done": true
+    },
+    {
+      "id": "9b49f8d9-ddc5-453e-8187-e21908fdd6aa",
+      "title": "Learn React Native",
+      "dueDate": "2018-12-15T10:00:00.000Z",
+      "done": true
+    }
+  ],
+  "locations": []
+}
